@@ -1,0 +1,2 @@
+Prefix plugins/Geuvadis/example/
+Plugin Geuvadis inputfile none outputfile geuvadis
